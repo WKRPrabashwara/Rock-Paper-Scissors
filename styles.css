@@ -149,6 +149,7 @@ main {
     color: #fff;
     text-align: center;
     font-size: 12px;
+    margin-bottom: 1rem;
 }
 
 .js-render {
