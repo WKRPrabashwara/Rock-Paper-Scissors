@@ -121,7 +121,7 @@ function autoPlay() {
     const intervalID = setInterval(() => {
         const value = gamePlay(userC);
         resultUpdater(value[0]);
-    }, 10);
+    }, 500);
 
     return intervalID;
 };
