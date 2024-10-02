@@ -12,7 +12,7 @@
 <p>You can play the game directly from your browser by visiting the link below:</p>
 
 <img src="./assets/preview.jpg" width="500px">
-<a href="https://prbshx74.github.io/Rock-Paper-Scissors/">Play Rock, Paper, Scissors!</a>🎉
+<a href="https://prbshx74.github.io/Rock-Paper-Scissors/" target="_blank">Play Rock, Paper, Scissors!</a>🎉
 <br><br>
 <p>Enjoy the game and try to beat the computer!</p>
 
